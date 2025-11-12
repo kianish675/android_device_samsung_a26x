@@ -18,6 +18,6 @@ This specific version of TWRP tree is built for **A266BXXS4AYGA.**
 ```bash
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch twrp_a54x-eng
+lunch twrp_a26x-eng
 mka recoveryimage
 ```
